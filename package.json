@@ -1,0 +1,19 @@
+{
+  "name": "demobackend",
+  "version": "1.0.0",
+  "description": "A basic backend for deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "demo"
+  ],
+  "author": "Sk Aspak Ali",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^5.0.0"
+  }
+}
